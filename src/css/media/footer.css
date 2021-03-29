@@ -1,0 +1,10 @@
+@media only screen and (max-width: 1100px) and (min-width: 600px) {
+    .footer .col-4 {
+      width: 50%;
+    }
+    .footer__text {
+      max-width: 350px;
+      margin-bottom: 45px;
+    }
+  }
+  

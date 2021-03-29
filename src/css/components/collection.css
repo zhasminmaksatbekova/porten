@@ -1,0 +1,25 @@
+.collection__left{
+    background-image: url(/images/png/collect.png);
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.collection__text{
+    font-family: 'PT Sans', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 150%;
+    text-align: center;
+    color: #FFFFFF;
+    width: 470px;
+    margin-bottom: 50px;
+}
+.collection__right{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 100px 0;
+}
